@@ -1,1 +1,1 @@
-**link :-** chatbotai-byadarsh.netlify.app
+**link :-** https://chatbotai-byadarsh.netlify.app
